@@ -50,7 +50,7 @@ html {
     top: 23px;
   }
   
-  @media (max-width: 768px) {
+@media (max-width: 768px) {
     #piano {
       width: 358px;
     }
@@ -62,7 +62,7 @@ html {
     .logo {
       width: 150px;
     }
-  }
+}
   
   @media (max-width: 1199px) and (min-width: 769px) {
       #piano {
